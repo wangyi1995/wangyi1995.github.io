@@ -3229,6 +3229,8 @@ span.tags-punctuation::before {
   font-size: 36px;
   font-weight: 700;
   line-height: 1;
+  display: flex;
+  align-items: center;
 }
 #console .aside-list-item .thumbnail {
   display: flex;
@@ -3617,7 +3619,7 @@ span.tags-punctuation::before {
 #footer #st-footer .footer-title-group {
   display: flex;
   align-items: center;
-  margin: 1rem 0 0.7rem 8px;
+  margin: 0.5rem 0 0.7rem 8px;
 }
 #footer #st-footer .footer-title-group a {
   margin-left: 8px;
